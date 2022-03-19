@@ -1,0 +1,17 @@
+.card {
+  text-align: center;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  width: 230px;
+  margin: 25px;
+  border-width: 1px;
+  border-color: #8080803b;
+  border-style: solid;
+
+}
+
+.card img {
+  width: 120px;
+  object-fit: cover;
+}
